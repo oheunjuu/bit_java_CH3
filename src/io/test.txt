@@ -1,0 +1,18 @@
+구글 git bash download -> 다운로드 
+
+git hub 가입하기
+
+https://github.com/oheunjuu/eunjuu.git
+
+
+echo "# eunjuu" >> README.md(README만든거)
+git init
+git add README.md(hello.txt라고 치면 텍스트 만들어짐)
+git commit -m "first commit"
+git remote add origin https://github.com/oheunjuu/eunjuu.git
+git push -u origin master
+
+
+git remote add origin https://github.com/oheunjuu/eunjuu.git
+git push -u origin master
+
